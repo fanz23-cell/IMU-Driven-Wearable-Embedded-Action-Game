@@ -1,6 +1,10 @@
 # **IMU-Driven Action Game on ESP32-C3 + OLED**
 *A full-body motion-controlled pixel game built with three ADXL345 sensors, real-time motion classification, and a scrolling 2× world map.*
 
+
+https://github.com/user-attachments/assets/7d549893-40e0-4dcd-9a89-a2555918582e
+
+
 ---
 
 ## **1. Project Overview**
